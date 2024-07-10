@@ -1,1 +1,3 @@
-[How to ssh into pwn college](ssh.md)
+# pwn.college
+
+## [How to ssh into pwn college](ssh.md)

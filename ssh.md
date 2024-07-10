@@ -19,4 +19,5 @@ Once saved.. Start a challenge in pwn.college
 Do not use the .pub which is the public key
 
 If an error occurs -> for mac/linux use chmod to change permision and make it only visible to your account.
+
 On windows right click on the private key ( no extension ). Properties -> Security -> Advanced -> Remove Everyone & Disable Inheritance if enabled
